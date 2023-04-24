@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "779436f9780e7065",
+    "type": "split",
+    "children": [
+      {
+        "id": "aab170aa08e9514d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fa865fd01c350af",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Crates/Dependencies.canvas",
+                "viewState": {
+                  "x": 40.5,
+                  "y": -140,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b17b0c79ddd9709",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a2a785cec77e521",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a406883ed0c98fc6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "639a8f0b5a0d0044",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3909c4a63624e18b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "89419f2331632a52",
+    "type": "split",
+    "children": [
+      {
+        "id": "bac4d0cce3aae3ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "963f7008a4661f71",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Crates/Dependencies.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "44c6dcee63c58eca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Crates/Dependencies.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "56ee1f238d2e5b04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "346e4ef07cd66de1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Crates/Dependencies.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0fa865fd01c350af",
+  "lastOpenFiles": [
+    "library_types.md",
+    "Crates/Dependencies.canvas",
+    "Crates/library_types.md",
+    "Crates/library_model.md",
+    "Crates/file_parser.md",
+    "Crates/file_io.md",
+    "Crates/DB_wrapper.md",
+    "Crates/client_model.md",
+    "Crates/client_logic.md",
+    "Crates/client_cli.md",
+    "Crates/Application.md",
+    "Crates"
+  ]
+}
